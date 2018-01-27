@@ -1,0 +1,2 @@
+# SheHacksVT
+Hacakthon VT project
